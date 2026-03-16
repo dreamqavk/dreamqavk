@@ -1,7 +1,7 @@
 # Hi there, I'm Vladislav! 👋
 
 ### 🚀 About Me
-I'm an 18-year-old aspiring **Frontend Developer** from Russia with a huge passion for web development. Currently, I'm a student at a **Radio Engineering College**, but my heart is set on creating beautiful and responsive websites.
+I'm an 19-year-old aspiring **Frontend Developer** from Russia with a huge passion for web development. Currently, I'm a student at a **Radio Engineering College**, but my heart is set on creating beautiful and responsive websites.
 
 - 🔭 I’m currently working on improving my skills in **JavaScript** and **React**.
 - 🌱 I’m deeply focused on Frontend development and modern UI/UX principles.
